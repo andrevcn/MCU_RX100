@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>V5778FIRR03/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>252</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1035</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>69</ColumnWidth3></Build>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1381</ColumnWidth1></Debug-Log><TerminalIO/><StaticWatch><PreferedWindows><Position>4</Position><ScreenPosX>270</ScreenPosX><ScreenPosY>256</ScreenPosY><Windows/></PreferedWindows></StaticWatch><Find-in-Files><ColumnWidth0>425</ColumnWidth0><ColumnWidth1>70</ColumnWidth1><ColumnWidth2>638</ColumnWidth2><ColumnWidth3>283</ColumnWidth3></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-13904-3525</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>V5778FIRR03</ExpandedNode><ExpandedNode>V5778FIRR03/Output</ExpandedNode><ExpandedNode>V5778FIRR03/cg_src</ExpandedNode><ExpandedNode>V5778FIRR03/usb_src</ExpandedNode><ExpandedNode>V5778FIRR03/usb_src/SmplMain</ExpandedNode><ExpandedNode>V5778FIRR03/user_src</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18-3581</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-23616-32319</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-10948-29937</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>2</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\cg_src\r_cg_main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>161</YPos2><SelStart2>9534</SelStart2><SelEnd2>9534</SelEnd2></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\usb_src\SmplMain\APL\r_usb_hmsc_apl.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>425</YPos2><SelStart2>16082</SelStart2><SelEnd2>16082</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\usb_src\SmplMain\APL\r_usb_hhid_apl.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>802</YPos2><SelStart2>31949</SelStart2><SelEnd2>31949</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\cg_src\r_cg_cmt_user.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>118</YPos2><SelStart2>6809</SelStart2><SelEnd2>6809</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\usb_src\USBSTDFW\src\r_usb_h1port.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>643</YPos2><SelStart2>25134</SelStart2><SelEnd2>25134</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\user_src\r_user_hwrctrl.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>40</XPos2><YPos2>1418</YPos2><SelStart2>61304</SelStart2><SelEnd2>61304</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00330df0><key>iaridepm.enu1</key></Toolbar-00330df0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>615</Bottom><Right>343</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>138889</sizeHorzCX><sizeHorzCY>233100</sizeHorzCY><sizeVertCX>239583</sizeVertCX><sizeVertCY>719114</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>200</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>233100</sizeHorzCY><sizeVertCX>138889</sizeVertCX><sizeVertCY>233100</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
