@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 07:46:24 On 18/01/2019
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [0000-0000-RZZ] of PCB Document [XXXX-YYYY-RZZ-PCB.PcbDoc]
+   Generated File[0000-0000-RZZ [STEP].step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 07:46:36 On 18/01/2019

@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 07:45:54 On 18/01/2019
+
+Output: P&P
+Type  : Pick Place
+From  : Variant [0000-0000-RZZ] of PCB Document [XXXX-YYYY-RZZ-PCB.PcbDoc]
+   Generated File[0000-0000-RZZ [P&P].txt]
+   Generated File[0000-0000-RZZ [P&P].csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 07:45:55 On 18/01/2019

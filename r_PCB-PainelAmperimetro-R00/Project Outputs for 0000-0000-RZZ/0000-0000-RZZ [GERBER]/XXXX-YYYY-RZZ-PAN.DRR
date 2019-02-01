@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: XXXX-YYYY-RZZ-PAN.PcbDoc   24/01/2019  08:25:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : XXXX-YYYY-RZZ-PAN.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             125       PTH        36.67inch (931.36mm)
+T2      35mil (0.9mm)                                             Round             7         PTH        4.77inch (121.10mm)
+T3      37mil (0.95mm)                                            Round             4         PTH        0.30inch (7.62mm)
+T4      39mil (1mm)                                               Round             38        PTH        10.42inch (264.76mm)
+T5      47mil (1.2mm)                                             Round             6         PTH        0.81inch (20.57mm)
+T6      51mil (1.3mm)                                             Round             10        PTH        2.84inch (72.24mm)
+T7      126mil (3.2mm)                                            Round             4         PTH        2.15inch (54.64mm)
+T8      197mil (5mm)                                              Round             4         NPTH       10.51inch (266.89mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              198
+
+Total Processing Time (hh:mm:ss) : 00:00:01
